@@ -10,3 +10,4 @@
 
 ###鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
+* [opencv相机标定](http://blog.csdn.net/aptx704610875/article/details/48914043)
