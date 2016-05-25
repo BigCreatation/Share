@@ -13,6 +13,7 @@
 * [extern "c"用法解析](http://www.jianshu.com/p/5d2eeeb93590)
 * [C/C++中extern关键字详解](http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html)
 * [freopen - C/C++文件输入输出利器](http://www.cnblogs.com/pegasus923/archive/2011/04/22/2024418.html)
+* [vector基本操作](http://www.cnblogs.com/wang7/archive/2012/04/27/2474138.html)
 
 ####鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
