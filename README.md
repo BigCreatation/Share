@@ -16,6 +16,9 @@
 * [vector基本操作](http://www.cnblogs.com/wang7/archive/2012/04/27/2474138.html)
 * [fstream使用方法](http://www.cppblog.com/saga/archive/2007/06/19/26652.html)
 
+####opencv相关知识
+* [opencv模板匹配](http://blog.csdn.net/lu597203933/article/details/14548523)
+
 ####鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
 * [opencv相机标定](http://blog.csdn.net/aptx704610875/article/details/48914043)
