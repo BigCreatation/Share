@@ -19,6 +19,7 @@
 ####opencv相关知识
 * [opencv模板匹配](http://blog.csdn.net/lu597203933/article/details/14548523)
 * [opencv基本绘图](http://blog.csdn.net/ubunfans/article/details/24421981);
+* [opencv角点检测](http://blog.csdn.net/xiaowei_cqu/article/details/7805206)
 
 ####鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
