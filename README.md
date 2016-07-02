@@ -20,11 +20,13 @@
 * [opencv模板匹配](http://blog.csdn.net/lu597203933/article/details/14548523)
 * [opencv基本绘图](http://blog.csdn.net/ubunfans/article/details/24421981);
 * [opencv角点检测](http://blog.csdn.net/xiaowei_cqu/article/details/7805206)
+* [opencv三角形检测](http://www.cnblogs.com/carekee/articles/2279915.html#commentform)
 
 ####鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
 * [opencv相机标定](http://blog.csdn.net/aptx704610875/article/details/48914043)
 
 
-####图像处理
+####图像算法
 * [线性插值和双线性插值](http://blog.csdn.net/longzaitianya1989/article/details/8761731)
+* [RANSAC算法详解](http://blog.sina.com.cn/s/blog_875c3b2f0106huux.html)
