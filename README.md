@@ -7,6 +7,7 @@
 ####vs2013使用中出现的一些问题及解决办法
 * [解决_CRT_SECURE_NO_WARNINGS 警告](http://blog.csdn.net/iesneaker/article/details/6328278)
 * [RuntimeLibrary 不匹配的解决](http://www.cnblogs.com/azor/p/3548809.html)
+* [不能将参数1从“const char []”转换为“LPCTSTR](http://blog.csdn.net/heathyhuhu/article/details/17594379)
 
 ####C语言基础知识
 * [FILE文件流的中fopen、fread、fseek、fclose的使用](http://www.cnblogs.com/Romi/archive/2012/02/29/2374769.html)
