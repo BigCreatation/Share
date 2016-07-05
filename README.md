@@ -19,7 +19,7 @@
 
 ####opencv相关知识
 * [opencv模板匹配](http://blog.csdn.net/lu597203933/article/details/14548523)
-* [opencv基本绘图](http://blog.csdn.net/ubunfans/article/details/24421981);
+* [opencv基本绘图](http://blog.csdn.net/ubunfans/article/details/24421981)
 * [opencv角点检测](http://blog.csdn.net/xiaowei_cqu/article/details/7805206)
 * [opencv三角形检测](http://www.cnblogs.com/carekee/articles/2279915.html#commentform)
 * [opencv图像锐化](http://www.cnblogs.com/liu-jun/archive/2012/08/12/2635373.html)
