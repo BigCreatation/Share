@@ -23,6 +23,7 @@
 ####C++基础知识
 * [vector基本操作](http://www.cnblogs.com/wang7/archive/2012/04/27/2474138.html)
 * [fstream使用方法](http://www.cppblog.com/saga/archive/2007/06/19/26652.html)
+* [C/C++位运算技巧](http://blog.csdn.net/zouliping123/article/details/8995373)
 
 ####opencv相关知识
 * [opencv模板匹配](http://blog.csdn.net/lu597203933/article/details/14548523)
