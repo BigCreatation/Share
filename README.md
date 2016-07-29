@@ -10,6 +10,7 @@
 * [不能将参数1从“const char []”转换为“LPCTSTR](http://blog.csdn.net/heathyhuhu/article/details/17594379)
 * [VS2013代码调试](http://jingyan.baidu.com/article/1709ad808ad29f4634c4f00b.html)
 * [如何解决error:LNK2005 已经在*.obj中定义](http://jingyan.baidu.com/article/91f5db1b3132821c7f05e3a0.html)
+* [error:LNK2005 已经在*.obj中定义](http://www.cnblogs.com/MuyouSome/p/3332699.html)
 
 ####C语言基础知识
 * [FILE文件流的中fopen、fread、fseek、fclose的使用](http://www.cnblogs.com/Romi/archive/2012/02/29/2374769.html)
