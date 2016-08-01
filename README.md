@@ -28,6 +28,7 @@
 * [C/C++位运算技巧](http://blog.csdn.net/zouliping123/article/details/8995373)
 
 ####opencv相关知识
+* [OpenCV基础篇之Mat数据结构](http://blog.csdn.net/xiahouzuoxin/article/details/38298165)
 * [opencv模板匹配](http://blog.csdn.net/lu597203933/article/details/14548523)
 * [opencv基本绘图](http://blog.csdn.net/ubunfans/article/details/24421981)
 * [opencv角点检测](http://blog.csdn.net/xiaowei_cqu/article/details/7805206)
