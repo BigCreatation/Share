@@ -3,6 +3,7 @@
 
 ####环境配置
 * [opencv3.0+vs2013环境配置](http://www.360doc.com/content/16/0331/00/32117566_546685675.shtml)
+* [如何vs2013中配置OpengGL的编程环境](http://jingyan.baidu.com/article/d5c4b52bca5005da560dc5d6.html)
 
 ####vs2013使用中出现的一些问题及解决办法
 * [解决_CRT_SECURE_NO_WARNINGS 警告](http://blog.csdn.net/iesneaker/article/details/6328278)
@@ -39,7 +40,7 @@
 * [CvMat，Mat和IplImage之间的转化和拷贝](http://www.cnblogs.com/Key-Ky/p/4150531.html)
 
 ####opengl相关知识
-*[如何vs2013中配置OpengGL的编程环境](http://jingyan.baidu.com/article/d5c4b52bca5005da560dc5d6.html)
+
 
 ####鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
