@@ -27,6 +27,7 @@
 * [fstream使用方法](http://www.cppblog.com/saga/archive/2007/06/19/26652.html)
 * [C/C++位运算技巧](http://blog.csdn.net/zouliping123/article/details/8995373)
 * [C++标准库 vector排序](http://blog.csdn.net/hnu_zxc/article/details/6746029)
+* [C/C++之回调函数](http://www.cnblogs.com/chenyuming507950417/archive/2012/01/02/2310114.html)
 
 ####opencv相关知识
 * [OpenCV基础篇之Mat数据结构](http://blog.csdn.net/xiahouzuoxin/article/details/38298165)
