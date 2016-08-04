@@ -38,6 +38,9 @@
 * [opencv图像锐化](http://www.cnblogs.com/liu-jun/archive/2012/08/12/2635373.html)
 * [CvMat，Mat和IplImage之间的转化和拷贝](http://www.cnblogs.com/Key-Ky/p/4150531.html)
 
+####opengl相关知识
+*[如何vs2013中配置OpengGL的编程环境](http://jingyan.baidu.com/article/d5c4b52bca5005da560dc5d6.html)
+
 ####鱼眼相机标定
 * [相机的内参矩阵](http://blog.csdn.net/hjchjc520/article/details/4133515)
 * [opencv相机标定](http://blog.csdn.net/aptx704610875/article/details/48914043)
