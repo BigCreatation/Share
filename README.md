@@ -13,6 +13,7 @@
 * [如何解决error:LNK2005 已经在*.obj中定义](http://jingyan.baidu.com/article/91f5db1b3132821c7f05e3a0.html)
 * [error:LNK2005 已经在*.obj中定义](http://www.cnblogs.com/MuyouSome/p/3332699.html)
 * [关于vs2013error C4996: 'strcmpi': The POSIX name for this item is deprecated.的错误解决办法！](http://www.bubuko.com/infodetail-829103.html)
+* [error C2664: 不能将参数从“const char [17]”转换为“LPCTSTR”](http://www.ourys.com/post/mfc_messagebox_error.html)
 
 ####C语言基础知识
 * [FILE文件流的中fopen、fread、fseek、fclose的使用](http://www.cnblogs.com/Romi/archive/2012/02/29/2374769.html)
@@ -20,7 +21,7 @@
 * [C/C++中extern关键字详解](http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html)
 * [freopen - C/C++文件输入输出利器](http://www.cnblogs.com/pegasus923/archive/2011/04/22/2024418.html)
 * [C语言文件操作详解](http://www.cnblogs.com/likebeta/archive/2012/06/16/2551780.html)
-* [ C语言enum枚举类型解析](http://blog.csdn.net/skyflying2012/article/details/22736633)
+* [C语言enum枚举类型解析](http://blog.csdn.net/skyflying2012/article/details/22736633)
 * [static作用（修饰函数、局部变量、全局变量）](http://www.cnblogs.com/stoneJin/archive/2011/09/21/2183313.html)
 
 
