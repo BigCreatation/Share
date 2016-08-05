@@ -21,6 +21,7 @@
 * [freopen - C/C++文件输入输出利器](http://www.cnblogs.com/pegasus923/archive/2011/04/22/2024418.html)
 * [C语言文件操作详解](http://www.cnblogs.com/likebeta/archive/2012/06/16/2551780.html)
 * [ C语言enum枚举类型解析](http://blog.csdn.net/skyflying2012/article/details/22736633)
+* [static作用（修饰函数、局部变量、全局变量）](http://www.cnblogs.com/stoneJin/archive/2011/09/21/2183313.html)
 
 
 ####C++基础知识
