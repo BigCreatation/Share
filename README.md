@@ -31,6 +31,7 @@
 * [C/C++位运算技巧](http://blog.csdn.net/zouliping123/article/details/8995373)
 * [C++标准库 vector排序](http://blog.csdn.net/hnu_zxc/article/details/6746029)
 * [C/C++之回调函数](http://www.cnblogs.com/chenyuming507950417/archive/2012/01/02/2310114.html)
+* [static和const的区别与联系](http://blog.sina.com.cn/s/blog_7e4386830100ug2j.html)
 
 ####opencv相关知识
 * [OpenCV基础篇之Mat数据结构](http://blog.csdn.net/xiahouzuoxin/article/details/38298165)
