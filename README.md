@@ -54,3 +54,4 @@
 ####图像算法
 * [线性插值和双线性插值](http://blog.csdn.net/longzaitianya1989/article/details/8761731)
 * [RANSAC算法详解](http://blog.sina.com.cn/s/blog_875c3b2f0106huux.html)
+* [图像的膨胀与腐蚀、细化](http://www.cnblogs.com/slysky/archive/2011/10/16/2214015.html)
