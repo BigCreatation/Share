@@ -33,6 +33,7 @@
 * [C/C++之回调函数](http://www.cnblogs.com/chenyuming507950417/archive/2012/01/02/2310114.html)
 * [static和const的区别与联系](http://blog.sina.com.cn/s/blog_7e4386830100ug2j.html)
 * [C/C++时间函数使用方法](http://www.cnblogs.com/xd502djj/archive/2010/09/23/1833361.html)
+* [C++11线程、锁和条件变量](http://developer.51cto.com/art/201305/396451.htm)
 
 ####opencv相关知识
 * [OpenCV基础篇之Mat数据结构](http://blog.csdn.net/xiahouzuoxin/article/details/38298165)
